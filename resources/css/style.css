@@ -1,0 +1,79 @@
+html {
+
+    background-color: black;
+    text-align: center;
+}
+
+
+.title {
+    color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: normal;
+text-align: center;
+font-size: 50px;
+display: block;
+padding-top: 20px;
+}
+
+.header {
+color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: 300;
+text-align: center;
+font-size: 42px;
+display: block;
+padding-top: 20px;
+
+
+
+}
+
+.download {
+
+    color: aquamarine;
+    font-size: 16px;
+    padding-top: 50px;
+    display: block;
+    text-decoration: underline;
+}
+
+
+.video {
+
+    padding-top: 50px;
+}
+
+
+.description {
+
+    color: grey;
+    font-size: 21px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 20px;
+
+}
+
+.icon {
+
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+
+.dad .header {
+
+    font-size: 42px;
+    font-weight: 300;
+
+}
+
+.footer {
+
+    text-align: right;
+    display: block;
+    font: 21px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+    padding: 30px;
+
+}
