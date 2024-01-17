@@ -1,2 +1,2 @@
-Excursion is a Project I did for code academy to increase my working knoledge
-of git and githubs relationship
+Excursion is a simple project to intended to increase my working knowledge
+of git and github
